@@ -4,7 +4,6 @@ CI/CD, which stands for Continuous Integration and Continuous Delivery (or Conti
 ### CI/CD Pipeline Workflow
 ![pipeline](https://miro.medium.com/v2/resize:fit:828/format:webp/1*1mYyliE8xO9v1xoAqmfHtA.gif)
 
-
 #### Continuous Integration (CI)
 1. Plan
 2. Code
@@ -20,6 +19,6 @@ CI/CD, which stands for Continuous Integration and Continuous Delivery (or Conti
 ### Jenkins
 its a open source ci and cd tool. It helps automate the parts of software development related to building, testing, and deploying.
 
-### Jenkis pipelien Workflow
+### Jenkis pipeline Workflow
 ![pipeline](https://miro.medium.com/v2/resize:fit:679/1*qqnFCiBcLP-khMfTAXAIpw.gif)
 
