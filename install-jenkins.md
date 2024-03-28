@@ -1,5 +1,4 @@
-### Install Jenkins on ec2 aws
-1. Create ec2 on aws
+### Install Jenkins on Ubuntu
 2. EC2 Instances - Security - edit inbound rules - all traffic - 8080
 3. http://ipaddress:8080
 
